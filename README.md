@@ -1,9 +1,9 @@
 # Workshop Tasks1-6 - Week 2
 
 ## Student Information
-- Name: Amit Pokhrel
+- Name: Ankit Baral
 - Lucky Number: 0  
-- Birthdate: 2004-04-11
+- Birthdate: 2004-03-31
 
 ## Project Structure
 - Task1: Basic Variables and String Interpolation
